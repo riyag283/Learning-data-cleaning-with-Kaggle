@@ -4,3 +4,4 @@ Check link: https://www.kaggle.com/learn/data-cleaning
 Dataset links: 
 - https://www.kaggle.com/maxhorowitz/nflplaybyplay2009to2016
 - https://www.kaggle.com/aparnashastry/building-permit-applications-data
+- https://www.kaggle.com/kemical/kickstarter-projects
